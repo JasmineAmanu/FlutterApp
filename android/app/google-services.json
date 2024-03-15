@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948170723738",
+    "project_id": "testing-fad53",
+    "storage_bucket": "testing-fad53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948170723738:android:01f3e9fd3083c512b3aa23",
+        "android_client_info": {
+          "package_name": "com.example.photogram_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoe4MYS2wK-ejp2erM5VKeM7Sn-BoYEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
